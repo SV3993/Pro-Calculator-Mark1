@@ -1,8 +1,11 @@
 # Pro-Calculator-Mark1(Scientific Calculator Program)
+This C++ program serves as a versatile scientific calculator, offering functionalities for simple arithmetic, special cases (factorial, prime, odd/even), and complex mathematics. The user-friendly console interface allows for efficient mathematical computations.
+
+
+
 ![image](https://github.com/SV3993/Pro-Calculator-Mark1/assets/114180037/1a974fb8-de77-4602-b95e-6f02af535588)
 
 
-This C++ program serves as a versatile scientific calculator, offering functionalities for simple arithmetic, special cases (factorial, prime, odd/even), and complex mathematics. The user-friendly console interface allows for efficient mathematical computations.
 
 ## Features:
 
